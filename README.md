@@ -12,6 +12,7 @@ The following **required** functionality is completed:
 
 * [x] User can view the poster in portrait mode
 * [x] User can view the backdrop in landscape mode
+* [x] User can see the rating and video preview
 
 ## Video Walkthrough
 
@@ -19,7 +20,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://edimarvalentin.me/img/Flixster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://edimarvalentin.me/img/Flixster-Part-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF's created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
